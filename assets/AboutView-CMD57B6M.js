@@ -1,0 +1,1 @@
+import{_ as t}from"./index-B4fSHQ4h.js";import{a as e,b as s,o as r}from"./vue-9vbtuQyd.js";import"./pinia-B0po0qNo.js";import"./fontawesome-BWMQMbiH.js";const a={},n={class:"about"};function c(i,o){return r(),e("div",n,o[0]||(o[0]=[s("h1",null,"This is an about page",-1)]))}const l=t(a,[["render",c]]);export{l as default};
