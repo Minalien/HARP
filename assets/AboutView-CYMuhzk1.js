@@ -1,0 +1,1 @@
+import{v as r,x as s}from"./vue-CNEfjIUr.js";const a=(t,e)=>{const o=t.__vccOpts||t;for(const[c,n]of e)o[c]=n;return o},_={};function f(t,e){return s(),r("main",null,"About")}const u=a(_,[["render",f]]);export{u as default};
